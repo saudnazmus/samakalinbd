@@ -1,0 +1,22 @@
+﻿article edit with image
+বিনোদন ক্যাটাগরি লিড
+date time topbar 
+
+sports 4 
+politic 2
+international 3
+entertainment 5
+জাতীয়
+রাজনীতি
+আন্তর্জাতিক
+খেলা
+বিনোদন
+জেলা6
+শিক্ষা7
+স্বাস্থ্য8
+অর্থনীতি9
+লাইফস্টাইল10
+তথ্যপ্রযুক্তি11
+
+ইসলাম
+সাহিত্য
